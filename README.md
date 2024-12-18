@@ -19,8 +19,8 @@
 
 ### 📚 Connect with Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/ermiyas-tilahun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ermiyas_Tilahun-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/Ermiyas_Tilahun" target="_blank"><img src="https://img.shields.io/badge/Twitter-Ermiyas_Tilahun-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
+  <a href="https://x.com/jermiket" target="_blank"><img src="https://img.shields.io/badge/Twitter-jermiket-blue?style=for-the-badge&logo=twitter" alt="Twitter"/></a>
+  <a href="https://t.me/Ermiyas_T" target="_blank"><img src="https://img.shields.io/badge/Telegram-Ermiyas_T-blue?style=for-the-badge&logo=telegram" alt="Telegram"/></a>
 </p>
 
 ---
@@ -28,13 +28,13 @@
 ### 🔧 Languages and Tools:
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios/50/000000/express-js.png" alt="express" width="40" height="40"/>
   </a>
   <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/>
@@ -57,7 +57,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
-
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -70,7 +69,4 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
-
 </p>
-
-</div>
