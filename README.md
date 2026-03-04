@@ -1,75 +1,61 @@
 <div align="center">
 
-👨‍💻 Ermiyas Tilahun | Full Stack Developer
-Building scalable, production-grade systems with clean architecture and exceptional code quality.
+# 🚀 Ermiyas Tilahun
+### Full Stack Developer | Systems Architect
+
+**Building scalable, production-grade systems with clean architecture and code quality.**
+
+[![GitHub followers](https://img.shields.io/github/followers/Ermiyas-T?style=flat-square&logo=github&label=Follow%20Me)](https://github.com/Ermiyas-T)
+[![Real-time Notification Engine](https://img.shields.io/badge/Focus-Real--time_Notification_Engine-blue?style=flat-square&logo=socketdotio)](https://github.com/Ermiyas-T)
 
 </div>
 
-🎯 About Me
-I am Ermiyas Tilahun, a dedicated architect and builder of full-stack solutions that prioritize scalability, maintainability, and performance. With a foundation in startup innovation and production systems, I specialize in bridging complex backend infrastructure with intuitive, responsive frontends.
+---
 
-Philosophy: Test-driven development + Clean architecture + Zero technical debt = Sustainable growth
+## 🎯 About Me
 
-🛠️ Tech Stack
-<table>
-<tr>
-<td valign="top" width="33%">
+I am **Ermiyas Tilahun**, a dedicated full-stack developer who loves solving real-world problems with meticulous attention to scalability and performance. 
 
-Frontend
-React & Next.js (App Router)
+> **Philosophy:** `Test-driven development` + `Clean architecture` 
 
-TypeScript with strict mode
+---
 
-Tailwind CSS & shadcn/ui
+## 🛠️ Tech Stack
 
-Zustand / Redux for state
+| 🎨 Frontend | ⚙️ Backend | ☁️ DevOps & Tools |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,ts" /> | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" /> | <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" /> |
+| **Frameworks:** React, Next.js 14+ | **Runtimes:** Node.js, NestJS | **Infra:** Docker, AWS (S3, EC2) |
+| **Styling:** Tailwind, shadcn/ui | **Databases:** PostgreSQL, MongoDB | **Caching:** Redis |
+| **State:** Zustand, Redux, SWR | **API:** REST, GraphQL, gRPC | **CI/CD:** Vercel, Railway |
+| **Testing:** Vitest, RTL | **Auth:** JWT, OAuth 2.0 | **Testing:** Jest, Supertest |
 
-SWR for data fetching
+---
 
-Testing: Vitest, React Testing Library
+## 📈 GitHub Stats
 
-</td>
-<td valign="top" width="33%">
-
-Backend
-Node.js ecosystem
-
-Express & NestJS
-
-PostgreSQL & MongoDB
-
-API Design: REST & GraphQL
-
-Authentication: JWT, OAuth, Sessions
-
-Testing: Jest, Supertest
-
-</td>
-<td valign="top" width="33%">
-
-DevOps & Tools
-Docker containerization
-
-AWS (S3, EC2, RDS, Lambda)
-
-Redis for caching/sessions
-
-Git & GitHub workflows
-
-CI/CD pipelines
-
-Vercel & Railway deployments
-
-</td>
-</tr>
-</table>
-
-🔗 Connect & Collaborate
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ermiyas-T&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ermiyas-T&theme=dark&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 🔗 Connect & Collaborate
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ermiyas-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ermiyas-tilahun.netlify.app)
+[![Telegram](https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ermiyas_T)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/jermiket)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jermiket@gmail.com)
 
 </div>
 
+---
+
 <div align="center">
 
-Always Learning. Always Building. Always Improving.
+### 💡 *Always Learning. Always Building. Always Improving.*
+
 </div>
