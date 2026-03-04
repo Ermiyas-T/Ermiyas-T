@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🚀 Ermiyas Tilahun
-### Full Stack Developer | Systems Architect
+### Full Stack Developer 
 
 **Building scalable, production-grade systems with clean architecture and code quality.**
 
@@ -27,8 +27,7 @@ I am **Ermiyas Tilahun**, a dedicated full-stack developer who loves solving rea
 | <img src="https://skillicons.dev/icons?i=react,nextjs,ts" /> | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" /> | <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" /> |
 | **Frameworks:** React, Next.js 14+ | **Runtimes:** Node.js, NestJS | **Infra:** Docker, AWS (S3, EC2) |
 | **Styling:** Tailwind, shadcn/ui | **Databases:** PostgreSQL, MongoDB | **Caching:** Redis |
-| **State:** Zustand, Redux, SWR | **API:** REST, GraphQL, gRPC | **CI/CD:** Vercel, Railway |
-| **Testing:** Vitest, RTL | **Auth:** JWT, OAuth 2.0 | **Testing:** Jest, Supertest |
+| **State:** Zustand, Redux,  | **API:** REST, GraphQL, gRPC | **CI/CD:** Vercel, Railway | | **Auth:** JWT, OAuth 2.0 | **Testing:** Jest, Supertest |
 
 ---
 
