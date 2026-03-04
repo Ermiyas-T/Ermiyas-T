@@ -53,8 +53,3 @@ I am **Ermiyas Tilahun**, a dedicated full-stack developer who loves solving rea
 
 ---
 
-<div align="center">
-
-### 💡 *Always Learning. Always Building. Always Improving.*
-
-</div>
