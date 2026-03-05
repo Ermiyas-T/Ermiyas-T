@@ -1,12 +1,11 @@
 <div align="center">
 
 # 🚀 Ermiyas Tilahun
-### Full Stack Developer 
+### Full Stack Developer | Systems Architect
 
 **Building scalable, production-grade systems with clean architecture and code quality.**
 
 [![GitHub followers](https://img.shields.io/github/followers/Ermiyas-T?style=flat-square&logo=github&label=Follow%20Me)](https://github.com/Ermiyas-T)
-[![Real-time Notification Engine](https://img.shields.io/badge/Focus-Real--time_Notification_Engine-blue?style=flat-square&logo=socketdotio)](https://github.com/Ermiyas-T)
 
 </div>
 
@@ -25,9 +24,10 @@ I am **Ermiyas Tilahun**, a dedicated full-stack developer who loves solving rea
 | 🎨 Frontend | ⚙️ Backend | ☁️ DevOps & Tools |
 | :--- | :--- | :--- |
 | <img src="https://skillicons.dev/icons?i=react,nextjs,ts" /> | <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" /> | <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" /> |
-| **Frameworks:** React, Next.js | **Runtimes:** Node.js,Expressjs, NestJS | **Infra:** Docker, AWS (S3) |
-| **Styling:** Tailwind, shadcn/ui | **Databases:** PostgreSQL,MySql MongoDB | **Caching:** Redis |
-| **State:** Zustand, Redux,  | **API:** REST | **CI/CD:** Vercel, Railway | | **Auth:** JWT, OAuth 2.0 | **Testing:** Jest  |
+| **Frameworks:** React, Next.js 14+ | **Runtimes:** Node.js, NestJS | **Infra:** Docker, AWS (S3, EC2) |
+| **Styling:** Tailwind, shadcn/ui | **Databases:** PostgreSQL, MongoDB | **Caching:** Redis |
+| **State:** Zustand, Redux, SWR | **API:** REST, GraphQL, gRPC | **CI/CD:** Vercel, Railway |
+| **Testing:** Vitest, RTL | **Auth:** JWT, OAuth 2.0 | **Testing:** Jest, Supertest |
 
 ---
 
@@ -36,6 +36,12 @@ I am **Ermiyas Tilahun**, a dedicated full-stack developer who loves solving rea
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ermiyas-T&show_icons=true&theme=dark&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ermiyas-T&theme=dark&hide_border=true" width="48%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ermiyas-T&layout=compact&theme=dark&hide_border=true&langs_count=8" width="60%" />
 </div>
 
 ---
@@ -50,6 +56,4 @@ I am **Ermiyas Tilahun**, a dedicated full-stack developer who loves solving rea
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jermiket@gmail.com)
 
 </div>
-
----
 
