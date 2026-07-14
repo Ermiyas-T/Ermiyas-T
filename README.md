@@ -26,7 +26,18 @@ I am **Ermiyas Tilahun**, a dedicated full-stack developer who loves solving rea
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ermiyas-T&layout=compact&theme=dark&hide_border=true&langs_count=8&card_width=420" />
 </div>
 
-<p align="center"><sub>Ranked automatically by GitHub from actual code volume across my repositories — always current, no manual upkeep.</sub></p>
+| Rank | Language | Share | Repos using it |
+|:---:|---|:---:|:---:|
+| 🥇 | **JavaScript** | 36.9% | 12 |
+| 🥈 | **TypeScript** | 33.4% | 6 |
+| 🥉 | **CSS** | 8.8% | 7 |
+| 4 | **Java** | 6.7% | 1 |
+| 5 | **C++** | 6.7% | 1 |
+| 6 | **HTML** | 4.4% | 6 |
+| 7 | **SCSS** | 2.1% | 1 |
+| 8 | **Python** | 1.0% | 1 |
+
+<p align="center"><sub>Card above ranks live by bytes of code — auto-updates on every profile view. Table is a snapshot pulled directly from GitHub on Jul 14, 2026 across 15 repos.</sub></p>
 
 ---
 
